@@ -10,5 +10,5 @@ This web app is built using EJS,Node.js/Express.js and PostgreSQL database.
 3. After installing open pgAdmin and set up log in details
 4. Create a new database and use the queries on the queries.sql file to create a new table
 5. Configure your database details on the index.js file
-6. On the terminal rune "nodemone index.js"
+6. On the terminal rune "nodemon index.js"
 7. To access the app got to http://localhost:3000
